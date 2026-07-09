@@ -1,4 +1,4 @@
-# Thayne Riley
+# Thayne Johnson
 
 Senior Technical Writer
 
