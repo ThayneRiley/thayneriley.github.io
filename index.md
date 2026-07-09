@@ -3,24 +3,24 @@ title: About
 nav_order: 1
 ---
 
-# Thayne Johnson
+# Thayne Riley
 
-Senior Technical Writer
+Senior Technical Writer specializing in developer documentation, cloud platforms, APIs, and AI agent-oriented documentation.
 
-I create clear, accurate documentation for complex software systems, APIs, and scientific workflows. My experience includes developer documentation, end-user guides, release documentation, and cross-functional collaboration with engineering and product teams.
+I create clear, scalable documentation that helps users, developers, and autonomous software agents understand and interact with complex systems. My experience spans scientific instrumentation, cloud genomics platforms, regulated software, and Docs-as-Code workflows.
 
-## About Me
-
-I've spent my career helping users understand complex technology by turning technical information into clear, usable documentation. My work spans software, instrumentation, and regulated environments, where accuracy and usability are equally important.
+---
 
 ## Resume
 
-View my professional experience and qualifications.
+View my professional experience, technical expertise, and education.
 
-→ Resume
+➡️ **[View Resume](resume)**
+
+---
 
 ## Contact
 
-Interested in working together or discussing an opportunity?
+Interested in discussing an opportunity or connecting professionally?
 
-→ Contact
+➡️ **[Contact Me](contact)**
