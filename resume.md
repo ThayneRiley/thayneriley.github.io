@@ -5,7 +5,7 @@ nav_order: 2
 
 # Resume
 
-## Professional Summary test change
+## Professional Summary
 
 Senior Technical Writer with 8+ years of experience creating documentation for complex software, cloud platforms, scientific instrumentation, and regulated systems. Experienced in developer documentation, REST APIs, Docs-as-Code workflows, structured authoring, and AI agent-consumable documentation.
 
