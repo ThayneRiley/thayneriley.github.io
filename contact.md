@@ -13,8 +13,6 @@ I'm interested in technical writing opportunities involving complex software sys
 
 **LinkedIn:** [linkedin.com/in/thaynejohnson](https://www.linkedin.com/in/thaynejohnson)
 
-**GitHub:** [github.com/thayneriley](https://github.com/thayneriley)
-
 ## Location
 
 Based in Ohio. Open to remote opportunities.
