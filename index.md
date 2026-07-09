@@ -1,9 +1,9 @@
 ---
-title: About
+title: Home
 nav_order: 1
 ---
 
-# Thayne Riley
+# Thayne Johnson
 
 Senior Technical Writer specializing in developer documentation, cloud platforms, APIs, and AI agent-oriented documentation.
 
