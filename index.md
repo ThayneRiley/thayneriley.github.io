@@ -15,7 +15,7 @@ I create clear, scalable documentation that helps users, developers, and autonom
 
 View my professional experience, technical expertise, and education.
 
-➡️ **[View Resume](resume)**
+[View Resume](resume){: .btn .btn-primary}
 
 ---
 
@@ -23,4 +23,4 @@ View my professional experience, technical expertise, and education.
 
 Interested in discussing an opportunity or connecting professionally?
 
-➡️ **[Contact Me](contact)**
+[Contact Me](contact){: .btn}
