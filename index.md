@@ -1,3 +1,8 @@
+---
+title: Resume
+nav_order: 1
+---
+
 # Thayne Johnson
 
 Senior Technical Writer
