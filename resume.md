@@ -7,7 +7,7 @@ nav_order: 2
 
 ## Professional Summary
 
-Senior Technical Writer with 8+ years of experience creating documentation for complex software, cloud platforms, scientific instrumentation, and regulated systems. Experienced in developer documentation, REST APIs, Docs-as-Code workflows, structured authoring, and AI agent-consumable documentation.
+Senior Technical Writer with 9+ years of experience creating documentation for complex software, cloud platforms, scientific instrumentation, and regulated systems. Experienced in developer documentation, REST APIs, Docs-as-Code workflows, structured authoring, and AI agent-consumable documentation.
 
 I partner with engineering, product, and validation teams to transform complex technical systems into clear, scalable documentation that supports both human users and autonomous software agents.
 
