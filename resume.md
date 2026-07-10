@@ -1,7 +1,7 @@
 ---
 title: Resume
 nav_order: 2
-------------
+---
 
 # Resume
 
@@ -137,4 +137,3 @@ U.S. Marine Corps veteran recognized for disciplined execution, technical precis
 
 * U.S. Marine Corps Veteran
 * Eligible for U.S. Secret Clearance
-* Portfolio: *Add GitHub Pages URL after publication*
